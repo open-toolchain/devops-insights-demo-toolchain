@@ -7,7 +7,7 @@ template:
   description:
     $ref: "#/messages/template.description"
   header: '![](toolchain.svg?localize)'
-  icon: icon.svg
+  icon: icon.png
   required:
     - catalog-api-repo
     - orders-api-repo

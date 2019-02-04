@@ -54,7 +54,8 @@
                 },
                 {
                     "type": "text",
-                    "key": "orders-api-repo_url"
+                    "key": "orders-api-repo_url",
+                    "readonly": true
                 },
                 {
                     "type": "label",
@@ -62,7 +63,8 @@
                 },
                 {
                     "type": "text",
-                    "key": "catalog-api-repo_url"
+                    "key": "catalog-api-repo_url",
+                    "readonly": true
                 },
                 {
                     "type": "label",
@@ -70,7 +72,8 @@
                 },
                 {
                     "type": "text",
-                    "key": "ui-repo_url"
+                    "key": "ui-repo_url",
+                    "readonly": true
                 },
                 {
                     "type": "label",
