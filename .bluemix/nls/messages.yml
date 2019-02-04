@@ -1,6 +1,6 @@
 ---
-template.name: "Explore DevOps Insights with pre-canned demo data"
-template.description: "Create a toolchain which has a DevOps Insights card pre-loaded with demo data. \n\nClick on the DevOps Insights card to bring up the dashboard to explore then DevOps Insights features."
+template.name: "DevOps Insights Quick Start Demo"
+template.description: "Start exploring Insights without any setup! This demo comes with pre-loaded data from our own reference toolchain and three example Github repos. The only thing you need is to log into IBM Cloud. \n\nThere are many features to explore. First, look at how we organize test, build, and deploy data for all applications, from all teams, within the Quality Dashboard. This collected information not only helps you to understand how well teams ensure quality for each release, it also lends to the transparency between different contributing teams. Second, evaluate trends and understand areas that need improvements so that you know where to best focus your resources. Lastly, review how team members collaborated per release within Team Dynamics.\n\nTo get started, click Create. This will take you to the DevOps dashboard where you can view the toolchain. From there, select the DevOps Insights card to explore Insights."
 template.gettingStarted: "**Your toolchain is ready!**\n Click on the DevOps Insights card to explore the DevOps Insights features."
 deploy.title: "Microservices deployment stage"
 deploy.description: "Microservices deployment schema"
